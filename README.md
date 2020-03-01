@@ -40,3 +40,5 @@ Check out the example
 # Project52
 
 It is one of my [project 52](https://github.com/Sab94/project52).
+
+Note: This project is inspired by [https://github.com/aloknerurkar/task-runner](https://github.com/aloknerurkar/task-runner)
